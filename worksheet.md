@@ -12,12 +12,17 @@ Take a look at the two repositories:
 And answer the following questions about them:
 
   * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
+    GitBucket and GitHub are both platforms that provide version control and source code management functionalities using Git. However, they have different features, hosting models, and target audiences.
   * Who made the last commit to repository A?
+    Mathew Roberts
   * Who made the first commit to repository A?
+    Jon Mountjoy
   * Who made the first and last commits to repository B?
+    Dave Pearce
   * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened?
+    Neither projects are active at the moment. I believe project A ran into a problem they couldn't solve, and project B moved on to work on the next release.
   * 🤔 Which file in each project has had the most activity?
-
+    
 # Task 2
 
 The repository you just cloned is a VSCode project, so lets work with it.  It currently will print "Hello World" message to the console when run.
